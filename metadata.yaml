@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7319'
     url: http://www.gutenberg.org/2009/agents/7319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17351#The-Rivals-of-AcadiaAn-Old-Story-of-the-New-World
 gutenberg_issued: '2005-12-19'
 gutenberg_type: Text
 identifiers:
