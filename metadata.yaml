@@ -1,0 +1,31 @@
+_repo: The-Rivals-of-AcadiaAn-Old-Story-of-the-New-World_17351
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cheney, H. V. (Harriet Vaughan)
+    alias: Cheney, Harriet Vaughan
+    birthdate: 1796
+    deathdate: 1889
+    gutenberg_agent_id: '7319'
+    url: http://www.gutenberg.org/2009/agents/7319
+description: ''
+gutenberg_issued: '2005-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Aulnay, Charles de Menou d'', 1604?-1650 -- Fiction'
+- !lcsh 'Acadia -- Fiction'
+- !lcsh 'La Tour, Charles de Saint-Etienne de, 1593-1666 -- Fiction'
+title: 'The Rivals of Acadia
+
+  An Old Story of the New World'
+url: http://www.gutenberg.org/ebooks/17351
